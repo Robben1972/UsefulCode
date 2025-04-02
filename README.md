@@ -1,2 +1,1 @@
-matrix.py
-How to multiply and transprate matrix
+matrix.py: How to multiply and transpose matrix
